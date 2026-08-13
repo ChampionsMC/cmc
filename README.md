@@ -1,5 +1,6 @@
 # cmc
 These are the official *assets of ChampionsMC, for easy sharing.
+
 *Assets that are public
 
 ChampionsMC socials:
