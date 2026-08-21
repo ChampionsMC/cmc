@@ -12,7 +12,7 @@ Main comunication: Discord
 discord.gg/championsmc
 
 Note: Rule #18
-"Do not copy any ChampionsMC assets."
+"Do not copy any ChampionsMC assets." - read brand_usage.
 
 Full CMC License (LLC, operating agreements, trademark & copyright) on 7/29/24; effective worldwide.
 
